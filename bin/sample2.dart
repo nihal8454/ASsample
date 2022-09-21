@@ -43,6 +43,8 @@ void main(){
   print("age of the student is ${x1.age=20}");
   print("mark of the student is ${x1.mark=30}");
   print("rollno of the student is ${x1.rollno=10}");
+  print("studying at ${Student.institute}");
+  print("course taken is ${Student.course}");
 
 }
 
